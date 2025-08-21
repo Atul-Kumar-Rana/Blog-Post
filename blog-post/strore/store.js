@@ -1,5 +1,5 @@
-import {configuration} from '@reduxjs/toolkit'
-const store=configuration({
+import {configureStore} from '@reduxjs/toolkit'
+const store=configureStore({
     reducer: {
         // Add your reducers here
     }
