@@ -16,6 +16,7 @@
     "appwrite": "^18.2.0",
     "font-awesome": "^4.7.0",
     "html-react-parser": "^5.2.6",
+    "lucide-react": "^0.540.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-hook-form": "^7.62.0",
